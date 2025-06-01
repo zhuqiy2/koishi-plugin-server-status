@@ -1,5 +1,5 @@
 # koishi-plugin-server-status
-
+[![npm](https://img.shields.io/npm/v/koishi-plugin-server-status?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-server-status)
 Koishi 插件，用于查询服务器状态信息，支持图表显示和自定义背景。
 
 ## 功能

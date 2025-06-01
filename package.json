@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-server-status",
   "description": "查询服务器状态信息，包括CPU使用率、内存使用率、网络带宽、运行时间等，支持自定义背景图",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "ZHUQIY",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZHUQIY/koishi-plugin-server-status"
+    "url": "git+https://github.com/zhuqiy2/koishi-plugin-server-status.git"
   },
   "peerDependencies": {
     "koishi": "^4.0.0",
