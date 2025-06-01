@@ -18,7 +18,7 @@
   "author": "ZHUQIY",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZHUQIY/koishi-plugin-server-status"
+    "url": "https://github.com/zhuqiy2/koishi-plugin-server-status"
   },
   "peerDependencies": {
     "koishi": "^4.0.0",
